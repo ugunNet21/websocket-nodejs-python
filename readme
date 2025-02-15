@@ -1,0 +1,19 @@
+## install web socket
+
+````
+mkdir chat-backend
+cd chat-backend
+npm init -y
+
+npm install ws
+
+node server.js
+````
+
+## run python
+
+- python3 -m venv venv
+- source venv/bin/activate
+- pip install websockets
+- python appchat.py
+
